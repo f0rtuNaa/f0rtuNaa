@@ -35,7 +35,7 @@ https://github.com/
 **Стек:** Python (Pandas, Matplotlib, Seaborn, Scikit-learn), анализ временных рядов
 
 🔗 **Репозиторий:**  
-https://github.com/
+[https://github.com/](https://github.com/f0rtuNaa/MAGPractice1)
 
 ## 🛠 Инструменты
 
