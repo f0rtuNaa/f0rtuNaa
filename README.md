@@ -56,4 +56,5 @@ https://github.com/
 ### Прочее
 - Pandas, NumPy, Scikit-learn  
 - API (сбор данных, интеграции, автоматизация)  
-- Git 
+- Git
+- Англиский язык С1
