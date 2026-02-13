@@ -65,6 +65,6 @@ https://github.com/f0rtuNaa/RFMpharmacy
 
 ### Прочее
 - Pandas, NumPy, Scikit-learn  
-- API (сбор данных, интеграции, автоматизация)  
+- API 
 - Git
 - Англиский язык С1
