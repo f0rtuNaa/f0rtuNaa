@@ -39,7 +39,7 @@ https://github.com/f0rtuNaa/MAGPractice1
 **Стек:** SQL, Metabase  
 
 🔗 **Репозиторий:**  
-[https://github.com/](https://github.com/f0rtuNaa/RFMpharmacy)
+(https://github.com/f0rtuNaa/RFMpharmacy)
 
 ## 🛠 Инструменты
 
